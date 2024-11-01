@@ -1,4 +1,5 @@
 import 'package:exemplo_widgets/home_page.dart';
+import 'package:exemplo_widgets/home_page2.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,7 +11,7 @@ void main() {
           backgroundColor: Colors.yellow,
         ),
       ),
-      home: HomePage(),
+      home: HomePage2(),
     ),
   );
 }
